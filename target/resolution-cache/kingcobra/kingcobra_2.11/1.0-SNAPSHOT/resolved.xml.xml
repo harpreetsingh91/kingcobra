@@ -4,7 +4,7 @@
 		module="kingcobra_2.11"
 		revision="1.0-SNAPSHOT"
 		status="integration"
-		publication="20170225153220"
+		publication="20170225161927"
 	>
 		<description>
 		kingcobra
@@ -40,7 +40,6 @@
 		<dependency org="com.typesafe.play" name="play-omnidoc_2.11" rev="2.5.10" conf="docs->default(compile)"/>
 		<dependency org="com.typesafe.play" name="play-netty-server_2.11" rev="2.5.10" conf="compile->default(compile)"/>
 		<dependency org="com.typesafe.play" name="play-logback_2.11" rev="2.5.10" conf="compile->default(compile)"/>
-		<dependency org="com.typesafe.play" name="play-jdbc_2.11" rev="2.5.10" conf="compile->default(compile)"/>
 		<dependency org="com.typesafe.play" name="play-cache_2.11" rev="2.5.10" conf="compile->default(compile)"/>
 		<dependency org="com.typesafe.play" name="play-ws_2.11" rev="2.5.10" conf="compile->default(compile)"/>
 		<dependency org="org.scalatestplus.play" name="scalatestplus-play_2.11" rev="1.5.1" conf="test->default(compile)"/>
