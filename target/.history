@@ -1,1 +1,7 @@
 start
+[my-first-app] $ playUpdateSecret
+[info] Generated new secret: B4FvQWnTp718vr6AHyvdGlrHBGNcvuM4y3jUeRCgXxIwBZIbt
+[info] Updating application secret in /Users/jroper/tmp/my-first-app/conf/application.conf
+[info] Replacing old application secret: play.crypto.secret="changeme"
+playUpdateSecret
+testProd
