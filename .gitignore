@@ -1,6 +1,5 @@
 
 project/project/.DS_Store
-project/project/target/.DS_Store
 project/project/target/config-classes/$715abec340a942bec24a$.class
 project/project/target/config-classes/$715abec340a942bec24a.cache
 project/project/target/config-classes/$715abec340a942bec24a.class
@@ -20,6 +19,7 @@ project/target/config-classes/$e8ae97516bad15c825d5$$anonfun$$sbtdef$1.class
 project/target/config-classes/$e8ae97516bad15c825d5$.class
 project/target/config-classes/$e8ae97516bad15c825d5.cache
 project/target/config-classes/$e8ae97516bad15c825d5.class
-project/target/scala-2.10/
-project/target/streams/compile/incCompileSetup/
 .idea/
+project/project/target/
+project/target
+target

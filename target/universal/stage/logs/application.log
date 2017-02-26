@@ -45,3 +45,6 @@
 2017-02-25 16:40:08,648 [INFO] from play.api.Play in main - Application started (Prod)
 2017-02-25 16:40:08,777 [INFO] from play.core.server.NettyServer in main - Listening for HTTP on /0:0:0:0:0:0:0:0:9000
 2017-02-25 16:41:11,072 [INFO] from application in Thread-7 - ApplicationTimer demo: Stopping application at 2017-02-26T00:41:11.072Z after 63s.
+2017-02-25 17:01:48,079 [INFO] from application in main - ApplicationTimer demo: Starting application at 2017-02-26T01:01:48.068Z.
+2017-02-25 17:01:48,084 [INFO] from play.api.Play in main - Application started (Prod)
+2017-02-25 17:01:48,210 [INFO] from play.core.server.NettyServer in main - Listening for HTTP on /0:0:0:0:0:0:0:0:9000
