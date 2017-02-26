@@ -20,6 +20,7 @@ project/target/config-classes/$e8ae97516bad15c825d5$.class
 project/target/config-classes/$e8ae97516bad15c825d5.cache
 project/target/config-classes/$e8ae97516bad15c825d5.class
 .idea/
-project/project/target/
-project/target
+#project/project/target/
+#project/target
 target
+project/project/
